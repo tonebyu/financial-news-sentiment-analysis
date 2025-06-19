@@ -1,0 +1,11 @@
+# Ignore all data folders and files
+data/
+*.csv
+*.json
+*.xlsx
+*.zip
+*.parquet
+*.tsv
+*.sav
+*.pkl
+*.h5
