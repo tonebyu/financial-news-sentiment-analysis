@@ -9,3 +9,4 @@ data/
 *.sav
 *.pkl
 *.h5
+.venv311
